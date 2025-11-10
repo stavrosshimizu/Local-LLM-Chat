@@ -14,3 +14,4 @@ Notes and usage details for Local-LLM-Chat.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
