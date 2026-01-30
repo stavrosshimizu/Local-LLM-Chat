@@ -22,3 +22,4 @@ Notes and usage details for Local-LLM-Chat.
 - fix a small wording issue
 - link the usage section
 - add a note about the defaults
+- link the usage section
